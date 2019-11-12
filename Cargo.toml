@@ -1,0 +1,9 @@
+[package]
+name = "RustyMarbleUpdate"
+version = "0.1.0"
+authors = ["Keith Simmons <keith@the-simmons.net>"]
+edition = "2018"
+
+[dependencies]
+wallpaper = "2.0.1"
+reqwest = "0.9.22"
